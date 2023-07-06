@@ -47,7 +47,7 @@ color: var(--title-color-dark)
     margin-bottom: var(--mb-2);
 }
 .home_img {
-  background: url("/public/images/kaif.jpg");
+  background: url("/public/images/profile\ photo.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

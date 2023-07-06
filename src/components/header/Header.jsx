@@ -16,7 +16,7 @@ const Header = () => {
       <header className="header container">
         <nav className="nav">
           <a href="index.html" className="nav_logo">
-            <span className="dark">Md</span>Kaif
+            <span className="dark">Md</span>KaiF
           </a>
 
           <div className={toggle ? "nav_menu show_menu" : "nav_menu"}>
